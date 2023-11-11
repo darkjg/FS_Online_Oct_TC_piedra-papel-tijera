@@ -8,7 +8,11 @@ body {
   color: #fff;
   padding: 10px 20px;
   font-size: 16px;
-  cursor: pointer;
+  cursor: pointer; 
+  border-radius: 50px 50px ;
+}
+.boton-jugada:hover{
+  background-color: green;
 }
 #resultados {
   font-size: 20px;
